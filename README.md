@@ -10,5 +10,5 @@ A simple Java App that solves the sudoku puzzle using artifical intelligence alg
 </ul>
 
 # Screenshots 
-![Alt text](shot1.png?raw=true "screenshot")
-![Alt text](shot2.png?raw=true "screenshot")
+![Alt text](shot1.PNG?raw=true "screenshot")
+![Alt text](shot2.PNG?raw=true "screenshot")
